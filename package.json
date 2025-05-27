@@ -42,7 +42,7 @@
     "topojson": "^3.0.2"
   },
   "dependencies": {
-    "d3-svg-annotation": "^2.5.0",
+    "d3-svg-annotation": "^2.5.1",
     "d3-tip": "^0.9.1"
   }
 }
